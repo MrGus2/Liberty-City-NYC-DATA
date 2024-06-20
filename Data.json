@@ -1,14 +1,10 @@
 {
-  "users": [
-    {
-      "username": "mickael554433",
-      "Money": 323223,
-      "Bank": 69
-    },
-    {
-      "username": "James321",
-      "Money": 323223,
-      "Bank": 69
-    }
-  ]
-}
+  "mickael554433": {
+     "money": 323223,
+     "bank": 69
+},
+  "James321": {
+   "money": 323223,
+   "bank": 69
+  }
+} 
