@@ -1,16 +1,14 @@
 {
   "users": [
     {
-      "userId": "1",
-      "displayname": "mickael554433"
+      "username": "mickael554433",
+      "Money": 323223,
+      "Bank": 69
     },
     {
-      "userId": "2",
-      "displayname": "Ben"
-    },
-    {
-      "userId": "3",
-      "displayname": "Sarah"
+      "username": "James321",
+      "Money": 323223,
+      "Bank": 69
     }
   ]
 }
